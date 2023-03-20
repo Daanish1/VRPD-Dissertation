@@ -1,0 +1,7 @@
+In order to run the program run Main.
+UI will show up after time has elapsed.
+Main line 37 is used to change which problem instance you want to run.
+In the Constants file (line 42) identifies how long it is run for.
+
+In order to run all tests run TestFramework class
+Line 12 in TestFramework identifies all problem instances that will be run
